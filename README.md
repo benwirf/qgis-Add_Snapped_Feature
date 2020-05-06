@@ -1,0 +1,1 @@
+# qgis-Add_Snapped_Feature
